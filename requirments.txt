@@ -1,6 +1,0 @@
-streamlit
-qdrant-client
-pandas
-numpy
-plotly
-groq
